@@ -1,0 +1,12 @@
+C:\Users\Dosen C-04\AppData\Local\Temporary Projects\CRUD_msAcces\bin\Debug\CRUD_msAcces.exe
+C:\Users\Dosen C-04\AppData\Local\Temporary Projects\CRUD_msAcces\bin\Debug\CRUD_msAcces.pdb
+C:\Users\Dosen C-04\AppData\Local\Temporary Projects\CRUD_msAcces\bin\Debug\CRUD_msAcces.xml
+C:\Users\Dosen C-04\AppData\Local\Temporary Projects\CRUD_msAcces\obj\x86\Debug\CRUD_msAcces.Form1.resources
+C:\Users\Dosen C-04\AppData\Local\Temporary Projects\CRUD_msAcces\obj\x86\Debug\CRUD_msAcces.Resources.resources
+C:\Users\Dosen C-04\AppData\Local\Temporary Projects\CRUD_msAcces\obj\x86\Debug\CRUD_msAcces.vbproj.GenerateResource.Cache
+C:\Users\Dosen C-04\AppData\Local\Temporary Projects\CRUD_msAcces\obj\x86\Debug\CRUD_msAcces.exe
+C:\Users\Dosen C-04\AppData\Local\Temporary Projects\CRUD_msAcces\obj\x86\Debug\CRUD_msAcces.xml
+C:\Users\Dosen C-04\AppData\Local\Temporary Projects\CRUD_msAcces\obj\x86\Debug\CRUD_msAcces.pdb
+D:\192102233-David Mahendra\CRUD_msAcces\CRUD_msAcces\obj\x86\Debug\CRUD_msAcces.exe
+D:\192102233-David Mahendra\CRUD_msAcces\CRUD_msAcces\obj\x86\Debug\CRUD_msAcces.xml
+D:\192102233-David Mahendra\CRUD_msAcces\CRUD_msAcces\obj\x86\Debug\CRUD_msAcces.pdb
